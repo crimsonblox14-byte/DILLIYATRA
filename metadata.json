@@ -1,0 +1,10 @@
+{
+  "name": "DelhiGuide AI - Smart Dilli Darshan & Fair Price Navigator",
+  "description": "AI-powered Delhi tour guide with real-time & offline maps, monument Q&A and historical facts, fair street food pricing shield, dining guides, Metro & bus transit hours, and AI for everything.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
